@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-dramatiq",
+  "versions": [
+    {
+      "commit": "566922ec1e7025e2d1b84b66282a8c98d351315b",
+      "tag": "v0.8.0",
+      "parsed_at": "2026-10-11T01:41:13.890191+00:00"
+    }
+  ]
+}
