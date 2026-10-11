@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-dramatiq/commit/566922ec1e7025e2d1b84b66282a8c98d351315b",
       "git:hexsha": "566922ec1e7025e2d1b84b66282a8c98d351315b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.8.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.8.0",
+      "repolex:parsedAt": "2026-10-11T01:41:13.879227+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-dramatiq/commit/5b0a16e97c1d02a59a7bc81f69dae308c7d7e22c",
